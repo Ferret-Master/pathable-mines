@@ -1,7 +1,7 @@
  {
    "context": "server",
-   "identifier": "com.pa.ferretmaster.no-mine-collision.server",
-   "display_name": "No Mine Collision",
+   "identifier": "com.pa.ferretmaster.Better-mine-pathing.server",
+   "display_name": "Better Mine Pathing",
    "description": "Removes mines collision to allow better pathing and performance",
    "author": "Ferretmaster",
    "version": "1.0",
